@@ -1,0 +1,17 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "Fianl Assignment",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build" : "electron-builder"
+  },
+  "author": "Joy Cho",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "electron-builder": "^23.6.0",
+    "electron-reloader": "^1.2.3"
+  }
+}
